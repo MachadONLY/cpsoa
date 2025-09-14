@@ -4,11 +4,9 @@
 Este projeto implementa uma API ReST desenvolvida com Spring Boot para o sistema de agendamento de instruções de uma auto-escola. A API permite o cadastro, listagem, atualização e exclusão (lógica) de instrutores e alunos, além do agendamento e cancelamento de instruções.
 
 ## Integrantes do Grupo
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
-- [Nome do Integrante 4]
-- [Nome do Integrante 5]
+-Camila do Prado Padalino - RM98316
+-Gabriel Teixeira Machado - RM551570
+
 
 ## Tecnologias Utilizadas
 - Java 17
