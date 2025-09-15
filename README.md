@@ -6,6 +6,7 @@ Este projeto implementa uma API ReST desenvolvida com Spring Boot para o sistema
 ## Integrantes do Grupo
 -Camila do Prado Padalino - RM98316
 -Gabriel Teixeira Machado - RM551570
+- João Pedro de Souza Vieira - RM99805
 
 
 ## Tecnologias Utilizadas
